@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Meryem Şentürk
 #### Jr. Full Stack Developer
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / Python
 
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: meryemaydmr41@gmail.com 
