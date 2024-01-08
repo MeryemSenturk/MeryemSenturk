@@ -4,7 +4,7 @@
 Skills: HTML / CSS / Python
 
 - 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: meryemaydmr41@gmail.com 
+- 📫 How to reach me: meryemmsenturk82@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MeryemSenturk)  
