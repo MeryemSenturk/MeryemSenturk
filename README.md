@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Meryem Şentürk
 #### Jr. Full Stack Developer
 
-Skills: HTML / CSS / Python
+Skills: HTML / CSS / Python / JavaScript
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React 
 - 📫 How to reach me: meryemsenturk82@gmail.com 
 
 
