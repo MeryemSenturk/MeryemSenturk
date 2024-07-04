@@ -3,7 +3,7 @@
 
 Skills: HTML / CSS / Python / JavaScript / React
 
-- 🌱 I’m currently learning Backend 
+- 🌱 I’m currently learning Back end 
 - 📫 How to reach me: meryemsenturk82@gmail.com 
 
 
